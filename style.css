@@ -1,0 +1,20 @@
+body {
+    margin: 20px;
+    color: #222;
+    background-color: #f5f5f5;
+    font-family: sans-serif;
+}
+
+.panel {
+    padding: 16px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
+
+.service-form {
+    margin-top: 16px;
+}
+
+#report-json {
+    overflow-wrap: anywhere;
+}
